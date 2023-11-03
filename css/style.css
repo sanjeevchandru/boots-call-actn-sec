@@ -1,0 +1,12 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+#call-act-section{
+    background-color: #414c64;
+}
+.call-act:hover{
+    background-color: #f8c008;
+    transition: all 0.5s ease;
+}
